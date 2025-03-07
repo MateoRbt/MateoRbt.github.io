@@ -27,6 +27,8 @@ I am a Computer Science graduate and AI Master's student specializing in Machine
 - ***Graduated:*** September 2023  
 - Relevant coursework: **Data Structures, Algorithms, AI, Software Development, Database Systems**  
 - *Thesis:* **"Formal Methods for Filesystem Standardization"** - Used **TLA+** for Ext2 specification.  
+- ***Link:*** [Code](https://github.com/MateoRbt/EXT2-file-system-standarization) , [Paper](https://www.academia.edu/127711289/%CE%A0%CE%91%CE%9D%CE%95%CE%A0%CE%99%CE%A3%CE%A4%CE%97%CE%9C%CE%99%CE%9F_%CE%94%CE%A5%CE%A4%CE%99%CE%9A%CE%97%CE%A3_%CE%91%CE%A4%CE%A4%CE%99%CE%9A%CE%97%CE%A3_%CE%A3%CE%A7%CE%9F%CE%9B%CE%97_%CE%9C%CE%97%CE%A7%CE%91%CE%9D%CE%99%CE%9A%CE%A9%CE%9D_%CE%A4%CE%9C%CE%97%CE%9C%CE%91_%CE%9C%CE%97%CE%A7%CE%91%CE%9D%CE%99%CE%9A%CE%A9%CE%9D_%CE%A0%CE%9B%CE%97%CE%A1%CE%9F%CE%A6%CE%9F%CE%A1%CE%99%CE%9A%CE%97%CE%A3_%CE%9A%CE%91%CE%99_%CE%A5%CE%A0%CE%9F%CE%9B%CE%9F%CE%93%CE%99%CE%A3%CE%A4%CE%A9%CE%9D_%CE%94%CE%99%CE%A0%CE%9B%CE%A9%CE%9C%CE%91%CE%A4%CE%99%CE%9A%CE%97_%CE%95%CE%A1%CE%93%CE%91%CE%A3%CE%99%CE%91_%CE%A0%CE%A1%CE%9F%CE%A4%CE%A5%CE%A0%CE%9F%CE%A0%CE%9F%CE%99%CE%97%CE%A3%CE%97_%CE%A4%CE%9F%CE%A5_%CE%A3%CE%A5%CE%A3%CE%A4%CE%97%CE%9C%CE%91%CE%A4%CE%9F%CE%A3_%CE%91%CE%A1%CE%A7%CE%95%CE%99%CE%A9%CE%9D_EXT2_%CE%9C%CE%95_%CE%A7%CE%A1%CE%97%CE%A3%CE%97_%CE%A4%CE%A5%CE%A0%CE%99%CE%9A%CE%A9%CE%9D_%CE%9C%CE%95%CE%98%CE%9F%CE%94%CE%A9%CE%9D_%CE%A1%CE%BF%CF%85%CE%BC%CF%80%CE%AC%CF%84%CE%B9_%CE%9C%CE%B1%CF%84%CE%AD%CE%BF)  
+
 
 ### **Master of Science (MSc) in Artificial Intelligence and Visual Computing** | **Uniwa**  
 - ***Currently Attending***  
@@ -61,7 +63,7 @@ CMS, SEO, Technical Documentation, Prompt Engineering, Video/Photo Editing
 - ***Description:*** A **sentiment analysis** project for **financial news classification**.  
 - ***Stack:*** Python, Scikit-Learn, PyTorch  
 - ***Models:*** Logistic Regressor, SVM, LSTM, CNN  
-- ***Link:*** [GitHub](https://github.com/MateoRbt/Sentiment-Analysis)  
+- ***Link:*** [GitHub](https://github.com/MateoRbt/Sentiment-Analysis/blob/master/Sentiment-Analysis.pdf) ,[Kaggle](https://www.kaggle.com/code/mateorbt/sentiment-analysis-deep-learning)
 
 ### **3. Python Image Processing**  
 - ***Description:*** Basic **image processing filters and techniques** using Python.  
@@ -89,10 +91,6 @@ CMS, SEO, Technical Documentation, Prompt Engineering, Video/Photo Editing
 - ***Stack:*** Docker, Linux  
 - ***Link:*** [GitHub](https://github.com/MateoRbt/HomeServer)  
 
-### **8. Diploma Thesis - Formal Methods for Filesystem Standardization**  
-- ***Description:*** Research on **Formal Methods** and their application in defining **filesystem behavior**.  
-- ***Stack:*** TLA+  
-- ***Link:*** [GitHub](https://github.com/MateoRbt/EXT2-file-system-standarization)  
 
 ## Awards & Recognitions  
 - **Top Student in High School** – *1st Technical Highschool of Athens* (2016) – Recognized for academic excellence and consistently being among the top students in the graduating class.  
