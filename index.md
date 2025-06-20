@@ -104,7 +104,7 @@ CMS, SEO, Technical Documentation, Prompt Engineering, Video/Photo Editing
 ### **10. Large-Scale Data Collection, Processing & Visualization (Financial News & Market Data)**
 - ***Description:***  A full pipeline for collecting, analyzing, and visualizing financial news and market data using NLP, sentiment analysis, topic modeling, and BI tools.  
 - ***Stack:*** Python, BeautifulSoup, newspaper3k, FinBERT, KeyBERT, BERTopic, yfinance, MySQL, SQLAlchemy, Power BI, Pandas, scikit-learn  
-- ***Link:*** [GitHub]([https://github.com/MateoRbt/cifar100-pytorch](https://github.com/MateoRbt/Large-Scale-Data-Management-and-Visualization))
+- ***Link:*** [GitHub](https://github.com/MateoRbt/Large-Scale-Data-Management-and-Visualization)
 
 
 
