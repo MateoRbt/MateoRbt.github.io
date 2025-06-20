@@ -89,7 +89,23 @@ CMS, SEO, Technical Documentation, Prompt Engineering, Video/Photo Editing
 ### **7. Home Server Project**  
 - ***Description:*** A **personal homelab project** involving self-hosted services.  
 - ***Stack:*** Docker, Linux  
-- ***Link:*** [GitHub](https://github.com/MateoRbt/HomeServer)  
+- ***Link:*** [GitHub](https://github.com/MateoRbt/HomeServer)
+
+### **8. Sentiment Analysis με FinBERT, MLP & BiLSTM**
+- ***Description:*** Multi-class sentiment analysis on financial texts using FinBERT fine-tuning, FinBERT embeddings with MLP, and BiLSTM with Focal Loss.  
+- ***Stack:*** PyTorch, Transformers (Huggingface), FinBERT, SMOTE, NLTK, scikit-learn, Focal Loss, Matplotlib, NumPy, Pandas  
+- ***Link:*** [GitHub](https://github.com/MateoRbt/Sentiment-Analysis-FinBERT)
+
+### **9. Image Classification με ResNet-18 & ShuffleNet v2 (CIFAR-100)**
+- ***Description:***  Benchmarking ResNet-18 and ShuffleNet v2 on CIFAR-100 with reduced training data (70%, 60%, 50%) to compare performance under data scarcity.  
+- ***Stack:*** PyTorch, Torchvision, ResNet, ShuffleNet v2, CIFAR-100, NumPy, Matplotlib, scikit-learn  
+- ***Link:*** [GitHub](https://github.com/MateoRbt/cifar100-pytorch)
+
+### **10. Large-Scale Data Collection, Processing & Visualization (Financial News & Market Data)**
+- ***Description:***  A full pipeline for collecting, analyzing, and visualizing financial news and market data using NLP, sentiment analysis, topic modeling, and BI tools.  
+- ***Stack:*** Python, BeautifulSoup, newspaper3k, FinBERT, KeyBERT, BERTopic, yfinance, MySQL, SQLAlchemy, Power BI, Pandas, scikit-learn  
+- ***Link:*** [GitHub]([https://github.com/MateoRbt/cifar100-pytorch](https://github.com/MateoRbt/Large-Scale-Data-Management-and-Visualization))
+
 
 
 ## Awards & Recognitions  
