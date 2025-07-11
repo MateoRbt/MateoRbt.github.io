@@ -14,7 +14,7 @@ layout: default
 </div>
 
 ## Summary  
-I am a Computer Science graduate and AI Master's student specializing in Machine Learning, Computer Vision, and Data Science. With a strong background in backend and full-stack development, I have worked extensively with Python, C, C++, and SQL, as well as modern frameworks like the MERN stack. Passionate about AI-driven solutions, I thrive in solving complex problems and building efficient, scalable applications. Whether optimizing server performance, designing robust algorithms, or exploring AI's potential, I am always eager to push technological boundaries. I enjoy collaborating with teams, applying cutting-edge AI research to practical applications, and continuously improving my skills.
+AI Engineer and Data Scientist with an Integrated Master’s in Computer Science and current MSc candidate in Artificial Intelligence and Visual Computing. Proficient in Python, PyTorch, TensorFlow, and Scikit-learn, with expertise in machine learning, computer vision, and NLP. Experienced in full-stack development (MERN stack) and building scalable AI-driven solutions. Achieved top performance in NLP (grade: 10) and Deep Learning (grade: 9.1) courses, with projects like FinBERT sentiment analysis and ResNet-18 image classification yielding up to 20% performance gains. Passionate about applying cutting-edge AI research and collaborating in agile teams.
 
 ## Experience  
 ### **Full-Stack Developer** | EnableGood *(March 2023 - October 2024)*  
