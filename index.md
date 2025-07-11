@@ -65,43 +65,22 @@ CMS, SEO, Technical Documentation, Prompt Engineering, Video/Photo Editing
 - ***Models:*** Logistic Regressor, SVM, LSTM, CNN  
 - ***Link:*** [GitHub](https://github.com/MateoRbt/Sentiment-Analysis/blob/master/Sentiment-Analysis.pdf) ,[Kaggle](https://www.kaggle.com/code/mateorbt/sentiment-analysis-deep-learning)
 
-### **3. Python Image Processing**  
-- ***Description:*** Basic **image processing filters and techniques** using Python.  
-- ***Stack:*** Python  
-- ***Link:*** [GitHub](https://github.com/MateoRbt/Python-Image-Processing)  
-
-### **4. OCR with Matlab**  
-- ***Description:*** Optical Character Recognition (OCR) using Matlab.  
-- ***Stack:*** Matlab  
-- ***Link:*** [GitHub](https://github.com/MateoRbt/OCR)  
-
-### **5. Neural Networks with Matlab**  
-- ***Description:*** Implemented **Neural Networks** to test on **linear and non-linear data**.  
-- ***Stack:*** Matlab  
-- ***Models:*** Adaline, Perceptron, Logistic Regressor  
-- ***Link:*** [GitHub](https://github.com/MateoRbt/)  
-
-### **6. Commercial MySQL Database**  
-- ***Description:*** A **commercial MySQL database** with **dummy data, queries, functions, procedures, and triggers**.  
-- ***Stack:*** MySQL, PL/SQL  
-- ***Link:*** [GitHub](https://github.com/MateoRbt/ADBFINAL)  
-
-### **7. Home Server Project**  
+### **3. Home Server Project**  
 - ***Description:*** A **personal homelab project** involving self-hosted services.  
 - ***Stack:*** Docker, Linux  
 - ***Link:*** [GitHub](https://github.com/MateoRbt/HomeServer)
 
-### **8. Sentiment Analysis με FinBERT, MLP & BiLSTM**
+### **4. Sentiment Analysis με FinBERT, MLP & BiLSTM**
 - ***Description:*** Multi-class sentiment analysis on financial texts using FinBERT fine-tuning, FinBERT embeddings with MLP, and BiLSTM with Focal Loss.  
 - ***Stack:*** PyTorch, Transformers (Huggingface), FinBERT, SMOTE, NLTK, scikit-learn, Focal Loss, Matplotlib, NumPy, Pandas  
 - ***Link:*** [GitHub](https://github.com/MateoRbt/Sentiment-Analysis-FinBERT)
 
-### **9. Image Classification με ResNet-18 & ShuffleNet v2 (CIFAR-100)**
+### **5. Image Classification με ResNet-18 & ShuffleNet v2 (CIFAR-100)**
 - ***Description:***  Benchmarking ResNet-18 and ShuffleNet v2 on CIFAR-100 with reduced training data (70%, 60%, 50%) to compare performance under data scarcity.  
 - ***Stack:*** PyTorch, Torchvision, ResNet, ShuffleNet v2, CIFAR-100, NumPy, Matplotlib, scikit-learn  
 - ***Link:*** [GitHub](https://github.com/MateoRbt/cifar100-pytorch)
 
-### **10. Large-Scale Data Collection, Processing & Visualization (Financial News & Market Data)**
+### **6. Large-Scale Data Collection, Processing & Visualization (Financial News & Market Data)**
 - ***Description:***  A full pipeline for collecting, analyzing, and visualizing financial news and market data using NLP, sentiment analysis, topic modeling, and BI tools.  
 - ***Stack:*** Python, BeautifulSoup, newspaper3k, FinBERT, KeyBERT, BERTopic, yfinance, MySQL, SQLAlchemy, Power BI, Pandas, scikit-learn  
 - ***Link:*** [GitHub](https://github.com/MateoRbt/Large-Scale-Data-Management-and-Visualization)
@@ -109,7 +88,9 @@ CMS, SEO, Technical Documentation, Prompt Engineering, Video/Photo Editing
 
 
 ## Awards & Recognitions  
-- **Top Student in High School** – *1st Technical Highschool of Athens* (2016) – Recognized for academic excellence and consistently being among the top students in the graduating class.  
+- **Top Student in High School** – *1st Technical Highschool of Athens* (2016) – Recognized for academic excellence and consistently being among the top students in the graduating class.
+- **Top Student** in Natural Language Processing, University of West Attica, 2024 (Grade: 10/10)  
+- **Top Student** in Deep Learning, University of West Attica, 2025 (Grade: 9.1/10)  
 - **International Open Bidding Competition** – *Europe* (2019) – Collaborated with a diverse team of university students across Europe to develop a website providing information on immigration. Contributed to the development of the **database**, ensuring data accuracy and efficient retrieval.
 
 ### Hobbies & Interests  
